@@ -15,5 +15,7 @@ This repository contains SQL queries used in my coursework to create and manage 
 1. Clone the repository:
    ```bash
    git clone https://github.com/CryptoCrusader/Video_Game_Parlour
+## Author
+- **Sarad Kandel** 😊
 
 
