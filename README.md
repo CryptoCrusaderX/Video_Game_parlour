@@ -1,17 +1,19 @@
-# SQL Injection (SQLi) Coursework
+# SQL Queries Coursework
 
 ## Description
 
-This repository contains the SQL Injection (SQLi) code developed as part of my coursework. It demonstrates various techniques for exploiting SQL vulnerabilities in web applications. The project showcases both the exploitation and prevention methods of SQLi attacks.
+This repository contains SQL queries used in my coursework to create and manage a database. The project demonstrates various SQL commands, such as creating tables, inserting data, and performing different types of queries to manage a relational database.
 
 ## Features
 
-- **SQL Injection Examples**: Different types of SQL injection attacks (e.g., Union-based, Error-based).
-- **Vulnerability Demonstrations**: Example scripts for showcasing SQLi vulnerabilities in a sample database.
-- **Prevention Techniques**: Methods to secure web applications against SQLi attacks.
+- **SQL Query Examples**: Various SQL queries used to create and manage a database.
+- **Database Operations**: Demonstrates operations like SELECT, INSERT, UPDATE, DELETE, and JOIN.
+- **Schema Creation**: Includes queries for defining table structures and relationships.
 
 ## Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/CryptoCrusader/Video_Game_Parlour
+
+
